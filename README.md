@@ -13,7 +13,8 @@ To import a Kicad .brd to eagle.
 
 3. Open the script with your editor of choice
 
-4. Modify the 3rd line with the name of the drill gerber file that you want to import
+4. Modify the 2nd line with the name of the drill gerber file that you want to import and the 3rd with either 'Hole ' or 'Via ' 
+    depending if it is plated or not plated hole.
 
 5. Run the script and prey that it works
 
